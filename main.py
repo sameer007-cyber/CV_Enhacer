@@ -376,5 +376,5 @@ st.markdown("<footer>Powered by Google Gemini AI and Streamlit Created By- Abhin
 #         st.write("Please upload the resume")
 #
 # # Footer
-# st.markdown("<footer>Powered by Google Gemini AI and Streamlit Created By- Abhinandan Patil</footer>", unsafe_allow_html=True)
+# st.markdown("<footer>Powered by Google Gemini AI and Streamlit Created By- Sameer Dharmadhikari</footer>", unsafe_allow_html=True)
 
